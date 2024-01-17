@@ -27,3 +27,14 @@
 
 - service
 
+![logo](3.png)
+
+4. Напишем манифест ingress и запустим его
+
+![logo](ingress.png)
+
+![logo](ingress1.png)
+
+5. Проверяем доступность наши сервисов
+
+![logo](final.png)
