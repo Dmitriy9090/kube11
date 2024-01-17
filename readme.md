@@ -16,5 +16,14 @@
 - kubectl expose deployment test1 --port=80
 - kubectl expose deployment test2 --port=80
 
+Проверим что созданные сущности запустились и работают:
 
+- statefulset 
+![logo](1.png)
+
+- deployments
+
+![logo](2.png)
+
+- service
 
